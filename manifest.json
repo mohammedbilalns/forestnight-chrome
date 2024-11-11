@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Everforest Chrome Theme",
+  "description": "Warm and soft green theme for Google Chrome. Based on Everforest Color Scheme by Sainnhe.",
+  "version": "1.0",
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [45, 53, 59],
+      "frame_inactive": [45, 53, 59],
+      "frame_incognito": [61, 72, 77],
+      "frame_incognito_inactive": [61, 72, 77],
+      "bookmark_text": [157, 169, 160],
+      "tab_background_text": [122, 132, 120],
+      "tab_background_text_inactive": [71, 82, 88],
+      "tab_background_text_incognito": [122, 132, 120],
+      "tab_background_text_incognito_inactive": [71, 82, 88],
+      "tab_text": [211, 198, 170],
+      "toolbar": [52, 63, 68],
+      "toolbar_button_icon": [167, 192, 128],
+      "omnibox_text": [211, 198, 170],
+      "omnibox_background": [45, 53, 59],
+      "ntp_background": [45, 53, 59],
+      "ntp_link": [211, 198, 170],
+      "ntp_text": [211, 198, 170],
+      "button_background": [45, 53, 59]
+    }
+  }
+}
