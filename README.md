@@ -8,6 +8,10 @@ Warm and soft green theme for Google Chrome. Based on [Everforest](https://githu
 
 ## Installation
 
+### Chrome Web Store
+
+[Everforest Chrome Theme](https://chrome.google.com/webstore/detail/dlcadbmcfambdjhecipbnolmjchgnode)
+
 ### Manually
 
 1. Clone this repository locally
