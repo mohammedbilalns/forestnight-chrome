@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Everforest Chrome Theme",
-  "description": "Warm and soft green theme for Google Chrome. Based on Everforest Color Scheme by Sainnhe.",
+  "name": "Forest Night Chrome Theme",
+  "description": "Warm and soft green theme for Google Chrome. Based on Forest Night colorscheme",
   "version": "1.0",
   "icons": {
     "16": "images/icon16.png",
@@ -10,24 +10,24 @@
   },
   "theme": {
     "colors": {
-      "frame": [45, 53, 59],
-      "frame_inactive": [45, 53, 59],
-      "frame_incognito": [61, 72, 77],
-      "frame_incognito_inactive": [61, 72, 77],
-      "bookmark_text": [157, 169, 160],
-      "tab_background_text": [122, 132, 120],
-      "tab_background_text_inactive": [71, 82, 88],
-      "tab_background_text_incognito": [122, 132, 120],
-      "tab_background_text_incognito_inactive": [71, 82, 88],
-      "tab_text": [211, 198, 170],
-      "toolbar": [52, 63, 68],
-      "toolbar_button_icon": [167, 192, 128],
-      "omnibox_text": [211, 198, 170],
-      "omnibox_background": [45, 53, 59],
-      "ntp_background": [45, 53, 59],
-      "ntp_link": [211, 198, 170],
-      "ntp_text": [211, 198, 170],
-      "button_background": [45, 53, 59]
+      "frame": [26, 33, 37],
+      "frame_inactive": [26, 33, 37],
+      "frame_incognito": [37, 47, 52],
+      "frame_incognito_inactive": [37, 47, 52],
+      "bookmark_text": [201, 209, 217],
+      "tab_background_text": [201, 209, 217],
+      "tab_background_text_inactive": [74, 85, 104],
+      "tab_background_text_incognito": [201, 209, 217],
+      "tab_background_text_incognito_inactive": [74, 85, 104],
+      "tab_text": [201, 209, 217],
+      "toolbar": [26, 33, 37],
+      "toolbar_button_icon": [78, 205, 196],
+      "omnibox_text": [201, 209, 217],
+      "omnibox_background": [26, 33, 37],
+      "ntp_background": [26, 33, 37],
+      "ntp_link": [78, 205, 196],
+      "ntp_text": [201, 209, 217],
+      "button_background": [155, 89, 182]
     }
   }
 }
